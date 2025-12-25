@@ -3,7 +3,7 @@
   <th> language </th>
   <tr>
     <td>
-       <img align="center" src="![rpycgo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rpycgo&show_icons=true&theme=radical)" />
+       <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=rpycgo&show_icons=true&theme=radical" />
     </td>
     <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpycgo&layout=compact&langs_count=8&hide=javascript,HTML,CSS,TeX&theme=radical"  />
