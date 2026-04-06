@@ -1,23 +1,23 @@
-<table>
-  <th> stats </th>
-  <th> language </th>
-  <tr>
-    <td>
-       <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=rpycgo&show_icons=true&theme=radical" />
+<p align="right">
+  <a href="https://github.com/rpycgo">
+    <img src="https://komarev.com/ghpvc/?username=rpycgo&color=79C83D&style=flat-square&label=hits" alt="Hits" />
+  </a>
+</p>
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rpycgo&theme=radical" />
     </td>
-    <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpycgo&layout=compact&langs_count=8&hide=javascript,HTML,CSS,TeX&theme=radical"  />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rpycgo&layout=compact&langs_count=8&hide=javascript,html,css,tex&theme=radical" alt="Languages" />
     </td>
   </tr>
 </table>
 
-#
-
-<a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frpycgo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
 
 ### Hi there 👋
 I'm Jihwan, Min, interesed in Finance, Time Series and NLP. <br>
-I’m currently working as a data scientist for automatic semi-conductor process.
 
 
 <!--
