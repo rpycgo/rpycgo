@@ -1,0 +1,27 @@
+
+name: Update GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: rpycgo
+          BRANCH_NAME: main
+          THEME: radical
+          TIME_ZONE: America/Chicago
+          AUTO_PUSH: true
