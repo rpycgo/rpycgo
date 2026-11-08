@@ -1,19 +1,13 @@
-<p align="right">
-  <a href="https://github.com/rpycgo">
-    <img src="https://komarev.com/ghpvc/?username=rpycgo&color=79C83D&style=flat-square&label=hits" alt="Hits" />
-  </a>
-</p>
+## GitHub Profile Summary
 
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rpycgo&theme=radical" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rpycgo&layout=compact&langs_count=8&hide=javascript,html,css,tex&theme=radical" alt="Languages" />
-    </td>
-  </tr>
-</table>
+![](./profile-summary-card-output/radical/0-profile-details.svg)
+
+![](./profile-summary-card-output/radical/1-repos-per-language.svg)
+![](./profile-summary-card-output/radical/2-most-commit-language.svg)
+
+![](./profile-summary-card-output/radical/3-stats.svg)
+![](./profile-summary-card-output/radical/4-productive-time.svg)
+
 
 
 ### Hi there 👋
